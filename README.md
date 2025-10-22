@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://linthor.b-cdn.net/Linthor%20logo%20gradient%20mindre%20fil%20(1)%20(2).png" alt="Linthor logo" width="180" />
+  <img src="https://linthor.b-cdn.net/Linthor%20logo%20gradient%20mindre%20fil%20(1)%20(2).png#gh-light-mode-only" alt="Linthor logo light mode" width="180" />
+  <img src="https://linthor.b-cdn.net/Linthor%20logo%20gradient%20white.png#gh-dark-mode-only" alt="Linthor logo dark mode" width="180" />
 </p>
 
 <h1 align="center">Linthor Web Agency</h1>
