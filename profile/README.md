@@ -1,9 +1,10 @@
-<div align="center">
-
-![Linthor logo light](https://linthor.b-cdn.net/Linthor%20logo%20gradient%20mindre%20fil%20(1)%20(2).png#gh-light-mode-only)
-![Linthor logo dark](https://linthor.b-cdn.net/Linthor%20logo%20gradient%20white.png#gh-dark-mode-only)
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://linthor.b-cdn.net/Linthor%20logo%20gradient%20white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://linthor.b-cdn.net/Linthor%20logo%20gradient%20mindre%20fil%20(1)%20(2).png">
+    <img alt="Linthor logo" src="https://linthor.b-cdn.net/Linthor%20logo%20gradient%20mindre%20fil%20(1)%20(2).png" width="180">
+  </picture>
+</p>
 
 <h1 align="center">Linthor Web Agency</h1>
 
