@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://linthor.se/logo.png](https://linthor-y82qy8hbh-noelperssons-projects.vercel.app/logo-variants/Linthor-logo-dark.svg)" alt="Linthor logo" width="180" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGlmaQsEczQJw/company-logo_200_200/B4DZdVUn6KHMAQ-/0/1749483159554/linthor_webbyra_logo?e=1762992000&v=beta&t=wifqGIj6ajyRl78EIZXX2aS7rA8oP7fpLMvL-VA1-_Y" alt="Linthor logo" width="180" />
 </p>
 
 <h1 align="center">Linthor Web Agency</h1>
