@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGlmaQsEczQJw/company-logo_200_200/B4DZdVUn6KHMAQ-/0/1749483159554/linthor_webbyra_logo?e=1762992000&v=beta&t=wifqGIj6ajyRl78EIZXX2aS7rA8oP7fpLMvL-VA1-_Y" alt="Linthor logo" width="180" />
+  <img src="https://www.eniro.se/_next/image?url=https%3A%2F%2Fimages.eniro.com%2Fcapax%2F68f8a5fd766970a98137fdc0%3Fop%3DORIG&w=640&q=75" alt="Linthor logo" width="180" />
 </p>
 
 <h1 align="center">Linthor Web Agency</h1>
@@ -25,5 +25,5 @@ We help startups and established brands grow through custom-built websites and w
 TypeScript • React • Next.js • Node.js • WordPress • Vite
 
 ### Contact
-Website: [https://linthor.se](https://linthor.se)  
-Email: hello@linthor.se
+Website: [https://www.linthor.se](https://www.linthor.se)  
+Email: info@linthor.com
