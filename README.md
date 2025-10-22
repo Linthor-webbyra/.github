@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.eniro.se/_next/image?url=https%3A%2F%2Fimages.eniro.com%2Fcapax%2F68f8a5fd766970a98137fdc0%3Fop%3DORIG&w=640&q=75" alt="Linthor logo" width="180" />
+  <img src="https://linthor.b-cdn.net/Linthor%20logo%20gradient%20mindre%20fil%20(1)%20(2).png" alt="Linthor logo" width="180" />
 </p>
 
 <h1 align="center">Linthor Web Agency</h1>
