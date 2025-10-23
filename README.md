@@ -26,5 +26,5 @@ We help startups and established brands grow through custom-built websites and w
 TypeScript • React • Next.js • Node.js • WordPress • Vite
 
 ### Contact
-Website: [https://www.linthor.se](https://www.linthor.se)  
+Website: [https://www.linthor.se](https://www.linthor.com)  
 Email: info@linthor.com
